@@ -1,1 +1,0 @@
-Although the package name is id3, the implementation is based on C4.5.
