@@ -6,3 +6,5 @@ the adaption of ID3 algorithm. The primary goal of the project is to
 build an efficient classifier with the notion of ensemble learning
 method while maintaining randomness. The resultant model performs
 effectively on disease dataset having discrete attributes.
+
+If you'd like to see the project in detail, please look at the uploaded ./Report.pdf.
