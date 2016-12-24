@@ -7,4 +7,4 @@ build an efficient classifier with the notion of ensemble learning
 method while maintaining randomness. The resultant model performs
 effectively on disease dataset having discrete attributes.
 
-If you'd like to see the project in detail, please look at the uploaded [Report](./REF-Random Forest.pdf) REFERENCED from my senior(I think everybody can learn a lot from kind of way of learning).
+If you'd like to see the project in detail, please look at the uploaded [Report](./REF-Random Forest.pdf) referred from my senior(I think everybody can learn a lot from kind of way of learning).
